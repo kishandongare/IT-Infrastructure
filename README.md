@@ -1,1 +1,1 @@
-# IT-Infrastructure
+# IT Infrastructure
