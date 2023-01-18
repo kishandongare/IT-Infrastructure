@@ -1,1 +1,4 @@
-# Essential Tools for Windows System Administrators
+(1) Which os is used for System Administration ?
+
+Windows System Administrators 
+Linux System Administrators
